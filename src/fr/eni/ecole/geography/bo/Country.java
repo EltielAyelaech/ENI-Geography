@@ -40,7 +40,7 @@ public class Country {
 		
 		resultat += " for ";
 		resultat += getPopulation();
-		resultat += " 000 inhab. )";
+		resultat += " 000 inhab.)";
 			
 		return resultat;
 	}
